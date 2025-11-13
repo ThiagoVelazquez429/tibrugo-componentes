@@ -5,7 +5,7 @@ hola, nosotros nos dedicamos a la venta de componentes de PCs
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TechZone - Venta de PCs</title>
+    TechZone - Venta de PCs
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
